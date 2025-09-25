@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run tree_gsr.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\tree_gsr.py",
+      "console": "integratedTerminal",
+      "env": {},
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
